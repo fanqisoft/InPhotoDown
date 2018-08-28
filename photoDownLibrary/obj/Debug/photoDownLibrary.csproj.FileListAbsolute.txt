@@ -1,0 +1,9 @@
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\bin\Debug\photoDownLibrary.dll
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\bin\Debug\photoDownLibrary.pdb
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\obj\Debug\photoDownLibrary.csprojAssemblyReference.cache
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\obj\Debug\photoDownLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\obj\Debug\photoDownLibrary.dll
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\obj\Debug\photoDownLibrary.pdb
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownLibrary\obj\Debug\photoDownLibrary.csproj.CopyComplete

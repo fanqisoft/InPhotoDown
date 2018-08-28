@@ -1,0 +1,15 @@
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\bin\Debug\photoDownApp.exe.config
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\bin\Debug\photoDownApp.exe
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\bin\Debug\photoDownApp.pdb
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\bin\Debug\photoDownLibrary.dll
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\bin\Debug\photoDownLibrary.pdb
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\obj\Debug\photoDownApp.csprojAssemblyReference.cache
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\obj\Debug\photoDownApp.Form1.resources
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\obj\Debug\photoDownApp.Properties.Resources.resources
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\obj\Debug\photoDownApp.csproj.GenerateResource.cache
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\obj\Debug\photoDownApp.csproj.CoreCompileInputs.cache
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\obj\Debug\photoDownApp.csproj.CopyComplete
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\obj\Debug\photoDownApp.exe
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\obj\Debug\photoDownApp.pdb
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fanqi\source\repos\InPhotoDown\photoDownApp\bin\Debug\Newtonsoft.Json.xml
